@@ -1,4 +1,4 @@
-# phd_analysis
+# Analysis of Fibres
 
 MD analysis
 1. geometrical_analysis: It contains codes to understand the pi-pi stacking stability in adjacent aromatic rings.
